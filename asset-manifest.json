@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Clon-Little-Caesars/static/css/main.a53dfa40.chunk.css",
+    "main.js": "/Clon-Little-Caesars/static/js/main.1f23fbe1.chunk.js",
+    "main.js.map": "/Clon-Little-Caesars/static/js/main.1f23fbe1.chunk.js.map",
+    "runtime-main.js": "/Clon-Little-Caesars/static/js/runtime-main.b05a9bdb.js",
+    "runtime-main.js.map": "/Clon-Little-Caesars/static/js/runtime-main.b05a9bdb.js.map",
+    "static/js/2.72bb5760.chunk.js": "/Clon-Little-Caesars/static/js/2.72bb5760.chunk.js",
+    "static/js/2.72bb5760.chunk.js.map": "/Clon-Little-Caesars/static/js/2.72bb5760.chunk.js.map",
+    "static/js/3.af8c15c8.chunk.js": "/Clon-Little-Caesars/static/js/3.af8c15c8.chunk.js",
+    "static/js/3.af8c15c8.chunk.js.map": "/Clon-Little-Caesars/static/js/3.af8c15c8.chunk.js.map",
+    "index.html": "/Clon-Little-Caesars/index.html",
+    "static/css/main.a53dfa40.chunk.css.map": "/Clon-Little-Caesars/static/css/main.a53dfa40.chunk.css.map",
+    "static/js/2.72bb5760.chunk.js.LICENSE.txt": "/Clon-Little-Caesars/static/js/2.72bb5760.chunk.js.LICENSE.txt",
+    "static/media/caesarwings.96d10f4c.png": "/Clon-Little-Caesars/static/media/caesarwings.96d10f4c.png",
+    "static/media/comidacompleta.5bfc2064.png": "/Clon-Little-Caesars/static/media/comidacompleta.5bfc2064.png",
+    "static/media/crazycombo.aa9cbd40.png": "/Clon-Little-Caesars/static/media/crazycombo.aa9cbd40.png",
+    "static/media/grandeextra.a3ddd688.png": "/Clon-Little-Caesars/static/media/grandeextra.a3ddd688.png",
+    "static/media/grandejamon.a6242bbd.png": "/Clon-Little-Caesars/static/media/grandejamon.a6242bbd.png",
+    "static/media/grandequeso.3a4071a8.png": "/Clon-Little-Caesars/static/media/grandequeso.3a4071a8.png",
+    "static/media/italiancheese.416f526a.png": "/Clon-Little-Caesars/static/media/italiancheese.416f526a.png",
+    "static/media/multiplePizzas.490709e2.jpeg": "/Clon-Little-Caesars/static/media/multiplePizzas.490709e2.jpeg",
+    "static/media/pepperoni.caeec61e.png": "/Clon-Little-Caesars/static/media/pepperoni.caeec61e.png",
+    "static/media/pepperonicheese.aead11c3.png": "/Clon-Little-Caesars/static/media/pepperonicheese.aead11c3.png",
+    "static/media/pizza.8fc47ee0.jpg": "/Clon-Little-Caesars/static/media/pizza.8fc47ee0.jpg",
+    "static/media/pizzaLeft.24b07891.jpg": "/Clon-Little-Caesars/static/media/pizzaLeft.24b07891.jpg",
+    "static/media/pizzaLogo.032d8e5e.png": "/Clon-Little-Caesars/static/media/pizzaLogo.032d8e5e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b05a9bdb.js",
+    "static/js/2.72bb5760.chunk.js",
+    "static/css/main.a53dfa40.chunk.css",
+    "static/js/main.1f23fbe1.chunk.js"
+  ]
+}
